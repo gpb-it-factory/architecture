@@ -63,4 +63,5 @@ Disclaimer: распределение по пакетам подвергайт�
 быть неверен или неэффективен для вашей задачи.
 [Вариант 1](clean_architecture_structure_v1.md)
 [Вариант 2](clean_architecture_structure_v2.md)
-[Вариант 3](clean_architecture_structure_v3.md)
+[Вариант 3 (не для использования)](clean_architecture_structure_v3.md)
+[Вариант 4](is_it_really_clean_architecture_structure_v4.md)
