@@ -10,36 +10,35 @@
 │   │   │   ├── ru/
 │   │   │   │   ├── gazprombank/
 │   │   │   │   │   ├── example/
-│   │   │   │   │   │   ├── application/
-│   │   │   │   │   │   │   ├── usecases/
-│   │   │   │   │   │   │   │   ├── RegisterUserUseCase.java
-│   │   │   │   │   │   │   │   ├── CreateAccountUseCase.java
-│   │   │   │   │   │   │   │   ├── GetAccountBalanceUseCase.java
-│   │   │   │   │   │   │   │   ├── TransferMoneyUseCase.java
-│   │   │   │   │   │   │   │   ├── dto/
-│   │   │   │   │   │   │   │   │   ├── UserRegistrationRequest.java
-│   │   │   │   │   │   │   │   │   ├── CreateAccountRequest.java
-│   │   │   │   │   │   │   │   │   ├── TransferMoneyRequest.java
-│   │   │   │   │   │   │   │   │   ├── AccountBalanceResponse.java
-│   │   │   │   │   │   │   ├── domain/
-│   │   │   │   │   │   │   │   ├── User.java
-│   │   │   │   │   │   │   │   ├── Account.java
-│   │   │   │   │   │   │   │   ├── service/
-│   │   │   │   │   │   │   │   │   ├── UserService.java
-│   │   │   │   │   │   │   │   │   ├── AccountService.java
-│   │   │   │   │   │   │   │   ├── repository/
-│   │   │   │   │   │   │   │   │   ├── UserRepository.java
-│   │   │   │   │   │   │   │   │   ├── AccountRepository.java
-│   │   │   │   │   │   │   ├── infrastructure/
-│   │   │   │   │   │   │   │   ├── persistence/
-│   │   │   │   │   │   │   │   │   ├── JpaUserRepository.java
-│   │   │   │   │   │   │   │   │   ├── JpaAccountRepository.java
-│   │   │   │   │   │   │   │   ├── configuration/
-│   │   │   │   │   │   │   │   │   ├── AppConfig.java
-│   │   │   │   │   │   │   ├── interfaces/
-│   │   │   │   │   │   │   │   ├── rest/
-│   │   │   │   │   │   │   │   │   ├── UserController.java
-│   │   │   │   │   │   │   │   │   ├── AccountController.java
+│   │   │   │   │   │   ├── usecases/
+│   │   │   │   │   │   │   ├── RegisterUserUseCase.java
+│   │   │   │   │   │   │   ├── CreateAccountUseCase.java
+│   │   │   │   │   │   │   ├── GetAccountBalanceUseCase.java
+│   │   │   │   │   │   │   ├── TransferMoneyUseCase.java
+│   │   │   │   │   │   │   ├── dto/
+│   │   │   │   │   │   │   │   ├── UserRegistrationRequest.java
+│   │   │   │   │   │   │   │   ├── CreateAccountRequest.java
+│   │   │   │   │   │   │   │   ├── TransferMoneyRequest.java
+│   │   │   │   │   │   │   │   ├── AccountBalanceResponse.java
+│   │   │   │   │   │   ├── domain/
+│   │   │   │   │   │   │   ├── User.java
+│   │   │   │   │   │   │   ├── Account.java
+│   │   │   │   │   │   │   ├── service/
+│   │   │   │   │   │   │   │   ├── UserService.java
+│   │   │   │   │   │   │   │   ├── AccountService.java
+│   │   │   │   │   │   │   ├── repository/
+│   │   │   │   │   │   │   │   ├── UserRepository.java
+│   │   │   │   │   │   │   │   ├── AccountRepository.java
+│   │   │   │   │   │   ├── infrastructure/
+│   │   │   │   │   │   │   ├── persistence/
+│   │   │   │   │   │   │   │   ├── JpaUserRepository.java
+│   │   │   │   │   │   │   │   ├── JpaAccountRepository.java
+│   │   │   │   │   │   │   ├── configuration/
+│   │   │   │   │   │   │   │   ├── AppConfig.java
+│   │   │   │   │   │   ├── interfaces/
+│   │   │   │   │   │   │   ├── rest/
+│   │   │   │   │   │   │   │   ├── UserController.java
+│   │   │   │   │   │   │   │   ├── AccountController.java
 ```
 
 Плюсы: 
